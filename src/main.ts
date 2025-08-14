@@ -16,6 +16,7 @@ async function bootstrap() {
       console.error(String(e));
     }
   }
+  
 }
 
 // eslint-disable-next-line @typescript-eslint/no-floating-promises
